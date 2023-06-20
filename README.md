@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Order and shipment tracking system](https://github.com/receperoglu/SevkReactYeni-main)
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [http://recep.space/](http://recep.space/)
 
-- 💬 Ask me about  **ReactJs,Redux,ReactNative,Flutter,C#**
+- 💬 Ask me about  **ReactJs,Redux,ReactNative,Flutter,C#
 
 - 📫 How to reach me **receperoglu1@hotmail.com**
 
