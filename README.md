@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [http://recep.space/](http://recep.space/)
-
 - 💬 Ask me about  **ReactJs,Redux,ContextApi,ReactNative,Flutter,C#,Php Laravel,Mysql,Mssql
 
 - 📫 How to reach me **receperoglu1@hotmail.com**
